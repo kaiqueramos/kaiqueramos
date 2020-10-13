@@ -21,8 +21,8 @@
 </p>
 
 ### Sobre mim
-- 🔭 Estou no caminho para minha primeira oportunidade
-- 🌱 Estou estudando Java, mais especificamente o ambiente Spring
+- 🔭 Estou no caminho para minha primeira oportunidade como dev
+- 🌱 Atualmente estou estudando Java, mais especificamente o ambiente Spring
 - 🤔 Adoro ajudar! Se tiver alguma dúvida, não deixe de me procurar
 - 📫 Me chama no Linkedin! <a href="https://www.linkedin.com/in/kaiqueramos/">AQUI</a>
 
