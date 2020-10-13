@@ -1,3 +1,4 @@
+### Olá! 👋
 <p align="center## Heading">
   <a href="#">
     <img align="center" width="510" src="https://i.ibb.co/9GGYnSB/DEV.gif" />
@@ -7,8 +8,13 @@
   </a>
 </p>
 
-
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiqueramos&layout=compact"
+    />
+  </a>
 
 <!--
 **kaiqueramos/kaiqueramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
