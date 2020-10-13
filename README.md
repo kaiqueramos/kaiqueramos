@@ -1,7 +1,7 @@
 ### Olá! 👋
 <p align="center## Heading">
   <a href="#">
-    <img align="center" width="820" src="https://i.ibb.co/BqH57bW/Asset-28-2x.png" />
+    <img align="center" width="1000" src="https://i.ibb.co/BqH57bW/Asset-28-2x.png" />
   </a>
 </p>
 
